@@ -3,7 +3,7 @@
 //setting values
 let name='pratik';
 let age=14;
-let concat='I am ' +name+' I am '+age;
+let concat='I am '  +name+' I am '+age;
 
 //putting in console;
 console.log(concat)
